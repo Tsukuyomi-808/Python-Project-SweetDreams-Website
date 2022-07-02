@@ -1,0 +1,6 @@
+client can have many orders(one to many)
+
+ orders can have many desserts 
+	desserts can have many orders (many to many)
+
+1 client can order many desserts

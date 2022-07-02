@@ -1,0 +1,16 @@
+* {
+  margin: auto;
+  padding: 0px;
+}
+
+.container {
+  width: 900px;
+  height: 900px;
+  background-color: aqua;
+}
+
+.dream {
+  background-color:pink;
+  height: 50px;
+  
+}
